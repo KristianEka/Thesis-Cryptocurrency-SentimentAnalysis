@@ -1,0 +1,83 @@
+2024-02-24 00:22:18,823 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9}
+2024-02-24 00:22:36,214 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9}
+2024-02-24 00:23:52,809 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9}
+2024-02-24 00:24:29,476 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9}
+2024-02-24 00:25:12,254 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8583037074657186, best pos: [92.55415127]
+2024-02-24 00:36:21,005 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:39:35,361 - pyswarms.backend.generators - ERROR - Bounds and/or init_pos should be of size (1,)
+Traceback (most recent call last):
+  File "C:\Users\krist\anaconda3\Lib\site-packages\pyswarms\backend\generators.py", line 81, in generate_swarm
+    pos = center * np.random.uniform(
+                   ^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 1154, in numpy.random.mtrand.RandomState.uniform
+  File "_common.pyx", line 600, in numpy.random._common.cont
+  File "_common.pyx", line 518, in numpy.random._common.cont_broadcast_2
+  File "_common.pyx", line 245, in numpy.random._common.validate_output_shape
+ValueError: Output size (15, 1) is not compatible with broadcast dimensions of inputs (15, 2).
+2024-02-24 00:39:39,889 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:39:54,347 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:40:17,849 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:40:45,350 - pyswarms.backend.generators - ERROR - Bounds and/or init_pos should be of size (1,)
+Traceback (most recent call last):
+  File "C:\Users\krist\anaconda3\Lib\site-packages\pyswarms\backend\generators.py", line 81, in generate_swarm
+    pos = center * np.random.uniform(
+                   ^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 1154, in numpy.random.mtrand.RandomState.uniform
+  File "_common.pyx", line 600, in numpy.random._common.cont
+  File "_common.pyx", line 518, in numpy.random._common.cont_broadcast_2
+  File "_common.pyx", line 245, in numpy.random._common.validate_output_shape
+ValueError: Output size (15, 1) is not compatible with broadcast dimensions of inputs (15, 2).
+2024-02-24 00:41:06,114 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:41:16,594 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:41:23,466 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:41:40,633 - pyswarms.backend.generators - ERROR - Bounds and/or init_pos should be of size (1,)
+Traceback (most recent call last):
+  File "C:\Users\krist\anaconda3\Lib\site-packages\pyswarms\backend\generators.py", line 81, in generate_swarm
+    pos = center * np.random.uniform(
+                   ^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 1154, in numpy.random.mtrand.RandomState.uniform
+  File "_common.pyx", line 600, in numpy.random._common.cont
+  File "_common.pyx", line 518, in numpy.random._common.cont_broadcast_2
+  File "_common.pyx", line 245, in numpy.random._common.validate_output_shape
+ValueError: Output size (15, 1) is not compatible with broadcast dimensions of inputs (15, 2).
+2024-02-24 00:41:45,001 - pyswarms.backend.generators - ERROR - Bounds and/or init_pos should be of size (1,)
+Traceback (most recent call last):
+  File "C:\Users\krist\anaconda3\Lib\site-packages\pyswarms\backend\generators.py", line 81, in generate_swarm
+    pos = center * np.random.uniform(
+                   ^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 1154, in numpy.random.mtrand.RandomState.uniform
+  File "_common.pyx", line 600, in numpy.random._common.cont
+  File "_common.pyx", line 518, in numpy.random._common.cont_broadcast_2
+  File "_common.pyx", line 245, in numpy.random._common.validate_output_shape
+ValueError: Output size (15, 1) is not compatible with broadcast dimensions of inputs (15, 2).
+2024-02-24 00:42:00,004 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:50:19,081 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 00:50:19,408 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-24 00:50:19,643 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-24 00:50:19,977 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-24 00:50:20,672 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-24 02:38:19,764 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8623666835957339, best pos: [163.58846843]
+2024-02-24 14:41:47,669 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 14:41:47,996 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-24 14:41:48,250 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-24 14:41:48,590 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-24 14:41:49,274 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-24 14:47:49,256 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 14:49:21,046 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.9, 'k': 20, 'p': 2}
+2024-02-24 14:49:21,210 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-02-24 14:49:21,581 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-02-24 14:49:21,895 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-02-24 14:49:22,551 - tensorflow - WARNING - From C:\Users\krist\anaconda3\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-02-24 15:12:45,948 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8557643473844592, best pos: [162.73907485]
